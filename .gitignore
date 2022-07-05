@@ -42,6 +42,10 @@
 *.VC.db
 *.VC.opendb
 
+# Rock Asset
+Environment/Rock/*RockFlat_01.fbx
+Environment/Rock/*RockFlat_01.uasset
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -74,3 +78,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Content/Environment/Rock/RockFlat_01.fbx
+Content/Environment/Rock/RockFlat_01.uasset
